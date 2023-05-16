@@ -1,0 +1,6 @@
+../LIB/Src/LCD.c:11:6:LCD_AssignPin	16	static
+../LIB/Src/LCD.c:42:6:lcd_Init	8	static
+../LIB/Src/LCD.c:70:6:lcd_send_cmd	32	static
+../LIB/Src/LCD.c:88:6:lcd_Send_Data	32	static
+../LIB/Src/LCD.c:106:6:lcd_Send_String	16	static
+../LIB/Src/LCD.c:111:6:lcd_Put_Cur	16	static

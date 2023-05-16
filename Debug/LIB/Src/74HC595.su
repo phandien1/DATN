@@ -1,0 +1,13 @@
+../LIB/Src/74HC595.c:10:16:HC595_AssignPin	24	static
+../LIB/Src/74HC595.c:44:20:ByteSlitting	32	static
+../LIB/Src/74HC595.c:69:16:HC595_ShiftOut	24	static
+../LIB/Src/74HC595.c:105:6:HC595_ReturnValueToString	24	static
+../LIB/Src/74HC595.c:115:6:HC595_SetBitOutput	16	static
+../LIB/Src/74HC595.c:120:6:HC595_ClearBitOutput	16	static
+../LIB/Src/74HC595.c:125:6:HC595_SetByteOutput	16	static
+../LIB/Src/74HC595.c:130:6:HC595_ClearByteOutput	16	static
+../LIB/Src/74HC595.c:135:16:HC595_SetTarget	16	static
+../LIB/Src/74HC595.c:142:6:HC595_TestOutput	16	static
+../LIB/Src/74HC595.c:160:6:HC595_TestPin	16	static
+../LIB/Src/74HC595.c:169:6:HC595_Enable	8	static
+../LIB/Src/74HC595.c:174:6:HC595_Disable	8	static
